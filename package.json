@@ -1,0 +1,19 @@
+{
+  "name": "tattoo",
+  "version": "1.0.0",
+  "description": "tatto studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LvMatt/tattoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LvMatt/tattoo/issues"
+  },
+  "homepage": "https://github.com/LvMatt/tattoo#readme"
+}
